@@ -1,5 +1,5 @@
-# Final Individual Project
+# Final Individual Project link
 
-*Click [here](https://github.com/russell-007-coder/601_individual_final_project/blob/main/screenshots/601_final_individual_project.docx) for the final document*
+https://github.com/russell-007-coder/601_individual_final_project/blob/main/screenshots/New%20Microsoft%20Word%20Document%20(2).docx
 
-*Thank you!*
+
